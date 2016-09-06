@@ -1,0 +1,33 @@
+comparing difference between 2 files in Windows: FC
+comparing difference between 2 files in Mac: diff -u
+downloaded Sublime text editor
+added subl command to .bash_profile to launch Sublime from command line
+created version-control directory in Xcode/Udacity Courses/Git
+editing lesson_1_reflections.txt in Sublime
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+- easier to debug if need to find out why bug appear in latest compilation
+- easier to find out changes made by others
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+pros of manually commit:
+- manageable and logical history log
+cons of manually commit:
+- lost work due to unforseen reason
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+- coding project often includes several inter-dependent files
+- google docs files are often treated as individuals
+
+How can you use the commands git log and git diff to view the history of files?
+- git log to view through the list of history commits
+- git diff to view the detail changes between 2 commits
+
+How might using version control make you more confident to make changes that could break something?
+- can always revert to the previous version
+
+Now that you have your workspace set up, what do you want to try using Git for?
+- complete the Git course
+- for my next iOS app project
+
+
